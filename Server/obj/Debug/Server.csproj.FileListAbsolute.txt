@@ -1,0 +1,16 @@
+c:\documents\visual studio 2013\Projects\Server\Server\bin\Debug\Server.exe.config
+c:\documents\visual studio 2013\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\documents\visual studio 2013\Projects\Server\Server\bin\Debug\Server.exe
+c:\documents\visual studio 2013\Projects\Server\Server\bin\Debug\Server.pdb
+c:\documents\visual studio 2013\Projects\Server\Server\obj\Debug\Server.exe
+c:\documents\visual studio 2013\Projects\Server\Server\obj\Debug\Server.pdb
+C:\Users\Андрей\Desktop\Сервер\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Андрей\Desktop\Сервер\Server\Server\obj\Debug\Server.exe
+C:\Users\Андрей\Desktop\Сервер\Server\Server\obj\Debug\Server.pdb
+C:\Users\Андрей\Desktop\Учеба\3 курс Сетевые протоколы\Server\Server\obj\Debug\Server.pdb
+C:\Users\Андрей\Desktop\Учеба\3 курс Сетевые протоколы\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Андрей\Desktop\Учеба\3 курс Сетевые протоколы\Server\Server\bin\Debug\Server.exe
+C:\Users\Андрей\Desktop\Учеба\3 курс Сетевые протоколы\Server\Server\bin\Debug\Server.pdb
+C:\Users\Андрей\Desktop\Учеба\3 курс Сетевые протоколы\Server\Server\bin\Debug\MySql.Data.dll
+C:\Users\Андрей\Desktop\Учеба\3 курс Сетевые протоколы\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Учеба\3 курс Сетевые протоколы\Server\Server\obj\Debug\Server.exe
